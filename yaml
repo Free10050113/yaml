@@ -112,6 +112,7 @@ proxy-groups:
       - 🇨🇳 江苏
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
+  ,
   - IP-CIDR,175.6.93.0/24,运营商黑名单,no-resolve
   - IP-CIDR,203.107.1.0/24,运营商黑名单,no-resolve
   - IP-CIDR,119.147.19.0/24,运营商黑名单,no-resolve
