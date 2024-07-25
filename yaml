@@ -16,7 +16,7 @@ dns:
     - tls://dns.google:853
 proxies:
   
-  - {name: 🇨🇳 江苏,type: vmess,server: 12.13.18.49,port: 8388,uuid: bab0543c-86f4-4263-aba9-2fbe9c361cc7,alterId: 0,cipher: auto,network: tcp}
+  - {name: 🇨🇳 测试,type: vmess,server: 12.13.18.49,port: 8388,uuid: bab0543c-86f4-4263-aba9-2fbe9c361cc7,alterId: 0,cipher: auto,network: tcp}
  
 proxy-groups:
   - name: 🔰 节点选择
